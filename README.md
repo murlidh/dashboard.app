@@ -35,5 +35,5 @@ This project is an Angular application featuring a modular architecture, lazy lo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repository/angular-dashboard.git
-   cd angular-dashboard
+   git clone https://github.com/murlidh/dashboard.app.git
+   cd dashboard.app
