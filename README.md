@@ -1,27 +1,39 @@
-# CompanyTask
+# Angular Dashboard Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.10.
+This project is an Angular application featuring a modular architecture, lazy loading, a responsive dashboard layout using PrimeNG UI library, and data fetched from a REST API. The application also includes state management and unit testing.
 
-## Development server
+## Table of Contents
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [Architecture](#architecture)
+- [Development](#development)
+- [Testing](#testing)
+- [Styling](#styling)
+- [Contributing](#contributing)
+- [License](#license)
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Modular architecture
+- Lazy loading
+- Responsive dashboard layout
+- PrimeNG UI library for tables
+- Data fetching from REST API
+- State management with NgRx
+- Unit and end-to-end testing
 
-## Build
+## Prerequisites
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [Node.js](https://nodejs.org/) (v12 or higher)
+- [Angular CLI](https://cli.angular.io/) (v10 or higher)
 
-## Running unit tests
+## Setup and Installation
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. **Clone the repository:**
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+   ```bash
+   git clone https://github.com/your-repository/angular-dashboard.git
+   cd angular-dashboard
