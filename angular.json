@@ -25,6 +25,7 @@
               "src/assets"
             ],
             "styles": [
+              
               "src/styles.css"
             ],
             "scripts": []
@@ -94,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "dbdce5b0-d36e-4470-ac4b-124b475b8e3d"
   }
 }

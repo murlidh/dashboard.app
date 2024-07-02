@@ -1,0 +1,34 @@
+.p-datatable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+    th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+    }
+  
+    th {
+      background-color: #f2f2f2;
+      color: #333;
+      font-weight: bold;
+    }
+  
+    tbody tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+  
+    tbody tr:hover {
+      background-color: #e9f5fe;
+    }
+  
+    .p-datatable-tbody > tr > td {
+      padding: 8px 12px;
+    }
+  
+    .p-datatable-thead > tr > th {
+      padding: 10px 15px;
+    }
+  
+  
